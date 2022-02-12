@@ -1,4 +1,4 @@
-# Basic_Linear_Reg.
+# Linear_Regression
 
 The repository contains information about basic terms of linear regression.
 
